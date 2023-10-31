@@ -1,0 +1,2 @@
+it is the file thar comes from name.txt in first step
+
